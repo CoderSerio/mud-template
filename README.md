@@ -3,7 +3,7 @@
 ## Introduction
 > This project was init with ✨ [mud-cli](https://github.com/CoderSerio/mud-cli) ✨
 
-Mud.js is a Mini UI-Build Dependence of JavaScript, making it much simpler to building a web application.
+[Mud.js](https://github.com/CoderSerio/Mud.js) is a Mini UI-Build Dependence of JavaScript, making it much simpler to building a web application.
 
 ## Getting Started
 
