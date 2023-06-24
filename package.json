@@ -17,6 +17,8 @@
     "@trickle/mud.js": "^1.2.0"
   },
   "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-plugin-import": "^2.27.5",
     "vite": "^4.3.5"
   }
 }

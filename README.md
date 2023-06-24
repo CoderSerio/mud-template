@@ -19,7 +19,7 @@ npm run dev
 
 ## Learning More
 
-Read the documents of Mud.js to learn more about it: [**TODO: The documents will be published soon**].
+Read the documents of Mud.js to learn more about it: [Mud.js Documentation](https://coderserio.github.io/Mud.js/).
 
 ## Suggestions
-Give suggestions and feedback questions  [here](https://github.com/CoderSerio/mud-cli/issues) 👈 or 👉 [there](https://github.com/CoderSerio/Mud.js/issues)
+Give suggestions and feedback questions [here](https://github.com/CoderSerio/mud-cli/issues) 👈 or 👉 [there](https://github.com/CoderSerio/Mud.js/issues)
